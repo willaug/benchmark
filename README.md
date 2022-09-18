@@ -1,5 +1,13 @@
-# Benchmark
-🚩 Some examples about performance in NodeJS with Benchmark Lib.
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-## Examples
-- 1º Calc cart total [Open](/src/cart/) `npm run test-calc`
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?&logo=linkedin&colorB=0A66C2
+[linkedin-url]: https://linkedin.com/in/william-augusto
+
+# Benchmark
+Some examples about performance in NodeJS with Benchmark Lib.
+
+## 🎏 Examples
+  **1º Calc cart total**
+  ```bash
+    npm run test-calc
+  ```
